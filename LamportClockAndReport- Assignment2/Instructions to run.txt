@@ -1,0 +1,4 @@
+Instructions to run the program:
+
+Compile the file using command: javac LamportClock.java
+Run the program using command: java LamportClock
